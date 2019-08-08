@@ -1,2 +1,2 @@
-# Test-cases-design-and-execution
+# TestCases-AIUB
 Developing and Executing Test Cases for AIUB System
