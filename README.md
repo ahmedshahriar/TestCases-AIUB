@@ -11,9 +11,15 @@ A collection of test cases and automation script made with java and selenium to 
 * [eclipse](https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-06/R/eclipse-cpp-2019-06-R-win32-x86_64.zip) - java IDE
 
 ## Notes
-*
+* Make sure your java compiler compliance level is 1.8
+
+![alt_text](https://github.com/ahmedshahriar/TestCases-AIUB/blob/master/screenshots/java_version.png "java compliance level")
+
+
 * Add selenium external library to the project and apply the change
+
 ![alt text](https://github.com/ahmedshahriar/TestCases-AIUB/blob/master/screenshots/selenium_lib.png "selenium ext library")
+
 
 * Make sure you put the correct path (Go to 25th line), It will be replaced by your **geckodriver.exe** path
 
