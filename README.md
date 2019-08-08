@@ -1,9 +1,13 @@
 # TestCases-AIUB
 A collection of test cases and automation script made with java and selenium to test the [AIUB](https://www.aiub.edu) website.
 
+## Authors
+
+* **HUDA,FARIHA ROWSHAN**  - [fariharaushan3303](https://github.com/fariharaushan3303)
+* **SAKIB,AHMED SHAHRIAR**  - [ahmedshahriar](https://github.com/ahmedshahriar)
 
 ## Prerequisites
-* [Java 1.8](https://www.java.com/en/download/) - Core 
+* [Java 1.8](https://www.java.com/en/download/) - Core language
 * [Firefox Browser](https://www.mozilla.org/en-US/firefox/download/) - Mozilla Firefox browser to test the script
 * [xPath Finder](https://addons.mozilla.org/en-US/firefox/addon/xpath_finder/) - Mozilla Add on to find xPath
 * [Selenium webdriver](https://bit.ly/2zm3ZzF) - Selenium for java
