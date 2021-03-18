@@ -28,5 +28,5 @@ A collection of test cases and automation script made with java and selenium to 
 * Make sure you put the correct path (Go to 25th line) in [main.java](https://github.com/ahmedshahriar/TestCases-AIUB/blob/master/Test/src/Main.java) , It will be replaced by your **geckodriver.exe** path
 
 ```java
-System.setProperty("webdriver.gecko.driver", "C:\\Users\\H311812Z3R\\eclipse-workspace\\Test\\lib\\geckodriver\\geckodriver.exe");
+System.setProperty("webdriver.gecko.driver", "C:\\Users\\username\\eclipse-workspace\\Test\\lib\\geckodriver\\geckodriver.exe");
 ```
